@@ -1,4 +1,4 @@
-# Predictive model on Cars Carbon Dioxide Emissions
+# Predictive Models on Cars Carbon Dioxide Emissions
 
 ## Project scope
 
