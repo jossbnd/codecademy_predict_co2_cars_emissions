@@ -35,4 +35,4 @@ In addition, we will also look at the weight of each characteristics in the pred
 
 ## Launch
 
-Find the code and explainations in the jupyter notebook file: cars_co2_emissions.ipynb
+Find the code and explainations in the jupyter notebook file: [cars_co2_emissions.ipynb](https://github.com/jossbnd/codecademy_predict_co2_cars_emissions/blob/main/cars_co2_emissions.ipynb)
