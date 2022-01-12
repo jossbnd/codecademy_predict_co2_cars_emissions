@@ -29,6 +29,7 @@ In addition, we will also look at the weight of each characteristics in the pred
 
 ## Predictive Models 
 
+Build, train, test:
 + Linear Regression
 + Multi Layer Perceptron
 + K Neighbors Regressor
